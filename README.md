@@ -1,4 +1,4 @@
-# Python_memory_game
+# Python memory game
 
 Memory game made with Python
 
